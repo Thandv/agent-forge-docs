@@ -1,0 +1,14 @@
+bundle: agent-forge-docs
+items:
+  - id: agent/docs/api-documenter
+    kind: agent
+    name: api-documenter
+    domain: docs
+    license: MIT
+    description: Master API documentation with OpenAPI 3.1, AI-powered tools, and modern developer experience practices. Create interactive docs, generate SDKs, and build compre
+  - id: agent/docs/docs-architect
+    kind: agent
+    name: docs-architect
+    domain: docs
+    license: MIT
+    description: Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-form t
